@@ -1,4 +1,4 @@
-#include "Model.h"
+#include "SEA_model.h"
 #include "math.h"
 
 NN_MODEL PredictModel;
